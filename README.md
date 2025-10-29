@@ -40,3 +40,13 @@ This looks like a promising resources:
 - CEDA Archive <https://catalogue.ceda.ac.uk/uuid/dbd451271eb04662beade68da43546e1/>
 
 This was linked from <https://www.metoffice.gov.uk/research/climate/maps-and-data/data/index> as the MIDAS-Open dataset.
+
+First trial data sourced from:
+
+- <https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series>
+
+Provided as .txt file through url:
+
+- <https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/East_Anglia.txt>
+
+Could potentially pull via URL, but probably take more time than just copying.
