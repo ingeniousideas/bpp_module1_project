@@ -11,7 +11,7 @@ Investigating crop yield and weather interaction.
 
 ### Crop yields
 
-Crop yields are provided by year. There are a range of datasets available under the **Structure of the agricultural industry** collection. Each year has a numebr of datasets. I will be using the Farming **Farming Statistics – final crop areas, yields, livestock populations and agricultural workforce at 1 June 2021 - United Kingdom**
+Crop yields are provided by year. There are a range of datasets available under the **Structure of the agricultural industry** collection. Each year has a number of datasets. I will be using the Farming **Farming Statistics – final crop areas, yields, livestock populations and agricultural workforce at 1 June 2021 - United Kingdom**
 
 Datasets are presented by year. I could analyse a single year between regions. Or a single region between years.
 
@@ -24,8 +24,7 @@ Narrowed down to Ceral and oilseed-rape production (dataset):
 
 - <https://www.gov.uk/government/statistics/cereal-and-oilseed-rape-production>
 
-**N.B.** Further exploration of datasets on the DEFRA site will be necessary. This may possibly lead to just looking at one year bt multiple regions. Could very well just look at average rainfall and/or temperature by region for one crop. Simple dataset. Do this first, then extend if there is time.
-
+**N.B.** Further exploration of datasets on the DEFRA site will be necessary. This may possibly lead to just looking at one year but multiple regions. Could very well just look at average rainfall and/or temperature by region for one crop. Simple dataset. Do this first, then extend if there is time.
 
 ### Weather data
 
@@ -41,6 +40,8 @@ This looks like a promising resources:
 
 This was linked from <https://www.metoffice.gov.uk/research/climate/maps-and-data/data/index> as the MIDAS-Open dataset.
 
+#### Data Gathering
+
 First trial data sourced from:
 
 - <https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series>
@@ -50,3 +51,12 @@ Provided as .txt file through url:
 - <https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/East_Anglia.txt>
 
 Could potentially pull via URL, but probably take more time than just copying.
+
+#### Data Wrangling
+
+What data wrangling will be required? The process of transforming data into a format to be used for data analytics. To create a clean, reliable dataset that rpovides accuaate and actioanlble insights.
+
+- Correcting errors.
+- Handling missing values.
+- Merging datasets.
+- Data analysis.
