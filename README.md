@@ -8,6 +8,15 @@ Repository for the bpp apprenticeship module 1 assessment.
   - Also some good ideas for analyses to do. Noted in **00_m1t6_Notes.md** and the "pan_course" **M1_hints&Tips.md**.
   - Probably want to refernce some of the articles in the **DESD_6_Links.txt**.
 
+## Daily Setup
+
+- Add topic folders
+- Create notes .md
+  - 00_m[module number]t[topic number]_notes.md
+- Create experiment .md
+  - 01_m[module number]t[topic number]_experiment.ipynb
+- Copy over session material
+
 ## Datasets
 
 Investigating crop yield and weather interaction.
