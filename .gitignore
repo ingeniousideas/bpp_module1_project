@@ -1,3 +1,8 @@
+# Local
+weather/
+crops/
+
+# General
 TODO
 *.pyc
 *.vs
